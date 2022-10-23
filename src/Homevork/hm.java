@@ -1,3 +1,5 @@
+package Homevork;
+
 import java.util.Scanner;
 
 public class hm {
